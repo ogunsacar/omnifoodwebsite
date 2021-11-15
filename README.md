@@ -1,2 +1,2 @@
 # omnifoodwebsite
-HTML&amp;CSS
+HTML&amp;CSS [Jonas Schmedtmann]
